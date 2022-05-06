@@ -1,0 +1,5 @@
+2022-05-06T08:28:15Z:
+* notice: last 14d: all unq: 36 2
+* notice: prev accum: outdated-all outdated-unq / all unq: 11 4 / 45 11
+* notice: next accum: outdated-all outdated-unq / all unq: 11 4 / 47 12
+* notice: prev json diff // prev day diff: unq all: +1 +2 / -0 -0 // +1 +3 / -0 -0
