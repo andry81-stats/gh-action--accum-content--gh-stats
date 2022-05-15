@@ -1,6 +1,6 @@
 {
-  "timestamp" : "2022-05-02T01:46:30Z",
-  "count" : 9,
+  "timestamp" : "2022-05-15T01:50:15Z",
+  "count" : 5,
   "count_minmax" : [ 4, 9 ],
   "count_prev_day_inc" : 16,
   "count_prev_day_dec" : 0,
